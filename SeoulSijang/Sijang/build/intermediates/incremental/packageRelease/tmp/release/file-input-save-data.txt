@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Sun Sep 30 19:54:41 KST 2018
+1.base=/Users/mac/Desktop/Android Studio/서울 공모전/SeoulSijang/Sijang/build/intermediates/assets/release
+2.path=pricesample.json
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=/Users/mac/Desktop/Android Studio/서울 공모전/SeoulSijang/Sijang/build/intermediates/assets/release
+3.set=DEX
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=classes.dex
+count=4
+1.set=ASSET
+0.path=placeid.json
+3.base=/Users/mac/Desktop/Android Studio/서울 공모전/SeoulSijang/Sijang/build/intermediates/transforms/dexMerger/release/0
+0.set=ASSET
+0.base=/Users/mac/Desktop/Android Studio/서울 공모전/SeoulSijang/Sijang/build/intermediates/assets/release
+2.baseType=DIRECTORY
+1.path=test

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/backdrop_linear"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:visibility="visible">
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/backdrop_A"
+        style="@style/TextAppearance.SeoulSijang.Backdrop.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:focusable="true"
+        android:text="시장리스트"
+        android:textColor="@color/colorText" />
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/backdrop_B"
+        style="@style/TextAppearance.SeoulSijang.Backdrop.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/backdrop_C"
+        style="@style/TextAppearance.SeoulSijang.Backdrop.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>

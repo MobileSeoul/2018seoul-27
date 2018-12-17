@@ -1,0 +1,419 @@
+{
+  "Meanulist": [
+    {
+      "SIJANG_NAME": "통인시장",
+      "PLACE_ID": "ChIJYxd6fL6ifDURy7wm894BUcQ"
+    },
+    {
+      "SIJANG_NAME": "용문시장",
+      "PLACE_ID": "ChIJ_TDD9wWifDUR3nh8uC-WVWA"
+    },
+    {
+      "SIJANG_NAME": "홈플러스 중계점",
+      "PLACE_ID": "ChIJCWORcWS5fDURLNW8UHS0Oaw"
+    },
+    {
+      "SIJANG_NAME": "목3동시장",
+      "PLACE_ID": "ChIJu_-KNBycfDUR1JI488yuzDw"
+    },
+    {
+      "SIJANG_NAME": "신영시장",//신영전통시장
+      "PLACE_ID": "ChIJ7yTUZLKdfDURoFLSR17FBW0"
+    },
+    {
+      "SIJANG_NAME": "행복한세상 목동점(하나로마트)",
+      "PLACE_ID": "ChIJNTm22YSefDURmJJMEtrMagI"
+    },
+    {
+      "SIJANG_NAME": "남구로시장",
+      "PLACE_ID": "ChIJDQB6ExeefDURKqgYnDajsRs"
+    },
+    {
+      "SIJANG_NAME": "고척근린시장",
+      "PLACE_ID": "ChIJMT3HiO2dfDUR4DF4Ws-NWB0"
+    },
+    {
+      "SIJANG_NAME": "남대문시장",
+      "PLACE_ID": "ChIJfYjlFvWifDURYSDsoxYbN80"
+    },
+    {
+      "SIJANG_NAME": "이마트 신도림점",
+      "PLACE_ID": "ChIJLU1GXV2efDURvEYWYu0fCEg"
+    },
+    {
+      "SIJANG_NAME": "애경백화점",
+      "PLACE_ID": "ChIJf16n8myefDURSMxRPZvMpcw"
+    },
+    //    {
+    //      "SIJANG_NAME": "현대시장",
+    //      "PLACE_ID": "ChIJLU1GXV2efDURvEYWYu0fCEg-NWB0"
+    //    }, 구글 맵에 폐업이라고 떠서 ID를 가져올수가없음
+
+    {
+      "SIJANG_NAME": "남문시장",
+      "PLACE_ID": "ChIJ9dd4kddhezURNQgzlrhZ8Vk"
+    },
+    {
+      "SIJANG_NAME": "홈플러스 시흥점",
+      "PLACE_ID": "ChIJo7U6WrdhezUR5iIS0Fd8Tm4"
+    },
+    {
+      "SIJANG_NAME": "망원시장",
+      "PLACE_ID": "ChIJA6gxryiZfDURJvmbeBvdz_Y"
+    },
+    {
+      "SIJANG_NAME": "마포농수산물시장",
+      "PLACE_ID": "ChIJt9FX4jyZfDURYZVCKOot0fo"
+    },
+    {
+      "SIJANG_NAME": "그랜드마트 신촌점",
+      "PLACE_ID": "ChIJHWMnmJWYfDURww_qgEmnoiI"
+    },
+    {
+      "SIJANG_NAME": "홈플러스 월드컵점",
+      "PLACE_ID": "ChIJJX6ghD2ZfDURJCaoZCniPyc"
+    },
+    {
+      "SIJANG_NAME": "남성시장",
+      "PLACE_ID": "ChIJPRWNcbShfDURxbqNo6wC210"
+    },
+    {
+      "SIJANG_NAME": "태평백화점",
+      "PLACE_ID": "ChIJF0voWbGhfDUR5sD7C4T2SAg"
+    },
+    {
+      "SIJANG_NAME": "돈암제일시장",
+      "PLACE_ID": "ChIJIwLtrMe8fDURkRb3JCqAZhM"
+    },
+    {
+      "SIJANG_NAME": "롯데백화점 영등포점",
+      "PLACE_ID": "ChIJxV0U9vyefDURMw1ZJpIyIvI"
+    },
+    {
+      "SIJANG_NAME": "원당종합시장",
+      "PLACE_ID": "ChIJP1B6XDugfDURk3CcgHFfOVY"
+    },
+    {
+      "SIJANG_NAME": "신원시장(신림1동)",
+      "PLACE_ID": "ChIJ56_iwMCffDURutJW03ClkUw"
+    },
+    {
+      "SIJANG_NAME": "롯데백화점 관악점",
+      "PLACE_ID": "ChIJz_AzrruffDURNTdsEFI4qdo"
+    },
+    {
+      "SIJANG_NAME": "세이브 마트",
+      "PLACE_ID": "ChIJHyttBdGffDURfhp7VfHw_uk"
+    },
+    {
+      "SIJANG_NAME": "장위골목시장",
+      "PLACE_ID": "ChIJuwgiN5u7fDUR7k2TUx9NkOc"
+    },
+    {
+      "SIJANG_NAME": "하나로클럽 양재점",
+      "PLACE_ID": "ChIJufjEXdSmfDURL-U6juLUT0M"
+    },
+    {
+      "SIJANG_NAME": "마천중앙시장",
+      "PLACE_ID": "ChIJYan7dKGvfDURef_Yz5_vbSs"
+    },
+    {
+      "SIJANG_NAME": "방이시장",
+      "PLACE_ID": "ChIJUTv063mlfDURm7XIHEsNG2s"
+    },
+    {
+      "SIJANG_NAME": "롯데백화점 잠실점",
+      "PLACE_ID": "ChIJbcyfsaClfDURymvgGhei5x4"
+    },
+    {
+      "SIJANG_NAME": "홈플러스 잠실점",
+      "PLACE_ID": "ChIJWVAkYAulfDUR54NtQbs-nfo"
+    },
+    {
+      "SIJANG_NAME": "이마트 미아점",
+      "PLACE_ID": "ChIJIzUf3Ye8fDUR2Cuaml3SYss"
+    },
+    {
+      "SIJANG_NAME": "이마트 명일점",
+      "PLACE_ID": "ChIJF-LJB0WwfDURdJ2-_kn6e7U"
+    },
+    {
+      "SIJANG_NAME": "홈플러스 강동점",
+      "PLACE_ID": "ChIJAXz01RawfDURV_dHh_swI0Q"
+    },
+    {
+      "SIJANG_NAME": "현대백화점 미아점",
+      "PLACE_ID": "ChIJ62a6r4i8fDURa7OfHHfIiak"
+    },
+    {
+      "SIJANG_NAME": "대림중앙시장",
+      "PLACE_ID": "ChIJjzdgW8uffDUR4AwKroWSDsk"
+    },
+    {
+      "SIJANG_NAME": "영동시장",
+      "PLACE_ID": "ChIJDX1jXuajfDURt4dCk_rOOKY"
+    },
+    {
+      "SIJANG_NAME": "서울중앙시장",
+      "PLACE_ID": "ChIJC4UzMDiefDURZP392OhDQDc"
+    },
+    {
+      "SIJANG_NAME": "신세계백화점",
+      "PLACE_ID": "ChIJGXh8WPGifDURZOTN-wc3Tdc"
+    },
+    {
+      "SIJANG_NAME": "영등포전통시장",
+      "PLACE_ID": "ChIJ5c0snuSefDUReTQULs9VB1E"
+    },
+    {
+      "SIJANG_NAME": "뉴코아아울렛 강남점",
+      "PLACE_ID": "ChIJEz1qtWKhfDURt_9IP5-zArI"
+    },
+    {
+      "SIJANG_NAME": "구로시장",
+      "PLACE_ID": "ChIJvSPE6BmefDURdTE8LCTHgUM"
+    },
+    {
+      "SIJANG_NAME": "둔촌역전통시장",
+      "PLACE_ID": "ChIJZcYgmfqvfDUR4M8lxJ594j4"
+    },
+    {
+      "SIJANG_NAME": "하나로클럽 미아점",
+      "PLACE_ID": "ChIJjyPQn2W8fDURqVasD6InyJs"
+    },
+    {
+      "SIJANG_NAME": "관악신사시장(신림4동)",
+      "PLACE_ID": "ChIJF-IX7smffDUR-Wj8_OoXXSI"
+    },
+    {
+      "SIJANG_NAME": "홈플러스 영등포점",
+      "PLACE_ID": "ChIJE3OqT_GefDURbiKaC35QWLQ"
+    },
+    {
+      "SIJANG_NAME": "상계중앙시장",
+      "PLACE_ID": "ChIJSUFFrhG5fDURKprem_BHVQg"
+    },
+    {
+      "SIJANG_NAME": "노룬산골목시장",
+      "PLACE_ID": "ChIJnT60w-ykfDUR58NGw1iehz4"
+    },
+    {
+      "SIJANG_NAME": "화곡본동시장",
+      "PLACE_ID": "ChIJudqKUkacfDURt1obVbzIN00"
+    },
+    {
+      "SIJANG_NAME": "이마트 목동점",
+      "PLACE_ID": "ChIJX1rwxIGefDURuheEtqRVDww"
+    },
+    //    {
+    //      "SIJANG_NAME": "청담삼익시장",
+    //      "PLACE_ID": "ChIJ5c0snuSefDUReTQULs9VB1E"
+    //    },청담삼익시장 없어 ㅡㅡ
+    {
+      "SIJANG_NAME": "도곡시장",
+      "PLACE_ID": "ChIJhRkKpBykfDURDzvouO0ZO4k"
+    },
+    //    {
+    //      "SIJANG_NAME": "방림시장",
+    //      "PLACE_ID": "ChIJX1rwxIGefDURuheEtqRVDww"
+    //    }, 방림시장 없
+    {
+      "SIJANG_NAME": "신세계백화점 강남점",
+      "PLACE_ID": "ChIJPaoBAHihfDURw6LJHcfbaOk"
+    },
+    {
+      "SIJANG_NAME": "대조시장",
+      "PLACE_ID": "ChIJ7WxC8yCYfDURDdaaCWZ_XGo"
+    },
+    {
+      "SIJANG_NAME": "롯데슈퍼",
+      "PLACE_ID": "ChIJt5wpInOYfDURqSKwAP1BF38"
+    },
+    {
+      "SIJANG_NAME": "숭인시장",
+      "PLACE_ID": "ChIJA6JbtWK8fDUROvzPj3D62ZU"
+    },
+    {
+      "SIJANG_NAME": "홈플러스 독산점",
+      //홈플러스 금천
+      "PLACE_ID": "ChIJKYZ7DNthezURQ0IxZbEgzHU"
+    },
+    {
+      "SIJANG_NAME": "방학동도깨비시장",
+      "PLACE_ID": "ChIJIUgyPra-fDURAcEskQhPj-I"
+    },
+    //    {
+    //      "SIJANG_NAME": "신창시장",
+    //      // 사진이 적절하지않
+    //      "PLACE_ID": "ChIJCeDeRge8fDUReL2RYnb8ABg"
+    //    },
+    {
+      "SIJANG_NAME": "이마트 창동점",
+      "PLACE_ID": "ChIJ8_fZnE65fDUR0rtceJrYqLw"
+    },
+    {
+      "SIJANG_NAME": "홈플러스 방학점",
+      "PLACE_ID": "ChIJ7RKBTDS5fDURGSdR12uC2mE"
+    },
+    {
+      "SIJANG_NAME": "인왕시장",
+      "PLACE_ID": "ChIJuU7ofRKYfDUR9vDUl3tWkWQ"
+    },
+    {
+      "SIJANG_NAME": "이마트 여의도점",
+      "PLACE_ID": "ChIJT_dihxaffDURqFMlvknX40Q"
+    },
+    {
+      "SIJANG_NAME": "영천시장",
+      "PLACE_ID": "ChIJ31yg9oSifDURcOEH5Ncr69I"
+    },
+    {
+      "SIJANG_NAME": "현대백화점 신촌점",
+      "PLACE_ID": "ChIJ7RKBTDS5fDURGSdR12uC2mE"
+    },
+    {
+      "SIJANG_NAME": "송화시장",
+      "PLACE_ID": "ChIJpUIlSVucfDUR3OZF6XEC_4w"
+    },
+    {
+      "SIJANG_NAME": "홈플러스 등촌점",
+      //홈플러스 강서점
+      "PLACE_ID": "ChIJy5SvAQ-cfDURR2JEKU6cp-g"
+    },
+    {
+      "SIJANG_NAME": "이마트 가양점",
+      "PLACE_ID": "ChIJ34wlpAacfDURzvDmrh--hUY"
+    },
+    {
+      "SIJANG_NAME": "이마트 역삼점",
+      "PLACE_ID": "ChIJSyKZfQOkfDURqSJRNCZmjCg"
+    },
+    {
+      "SIJANG_NAME": "롯데백화점 강남점",
+      "PLACE_ID": "ChIJg5bNhxykfDURzO0C720UStY"
+    },
+    {
+      "SIJANG_NAME": "대림시장",
+      "PLACE_ID": "ChIJMYlGllGYfDURrb6Lu_Gpk8c"
+    },
+    {
+      "SIJANG_NAME": "2001아울렛 불광점",
+      //NC백화점 불광점
+      "PLACE_ID": "ChIJ38Bs4SCYfDUR_Uvyh4I9XuM"
+    },
+    {
+      "SIJANG_NAME": "이마트 은평점",
+      "PLACE_ID": "ChIJc_OrPTeYfDUROxVYW1G3QVs"
+    },
+    {
+      "SIJANG_NAME": "광장시장",
+      "PLACE_ID": "ChIJm3V0fu2ifDURRJ8IMUijVtY"
+    },
+    {
+      "SIJANG_NAME": "롯데백화점",
+      //본
+      "PLACE_ID": "ChIJ91oV-fGifDURtBoizcsB2Hc"
+    },
+    {
+      "SIJANG_NAME": "이마트 용산점",
+      "PLACE_ID": "ChIJ84cCWBuifDURt7G_jK4Sbj8"
+    },
+    {
+      "SIJANG_NAME": "이마트 청계점",
+      "PLACE_ID": "ChIJl2g5JkmjfDURZPC9qcYH9WA"
+    },
+    {
+      "SIJANG_NAME": "후암시장",
+      "PLACE_ID": "ChIJcV41bl2ifDURVDi7-EfQDmw"
+    },
+    {
+      "SIJANG_NAME": "농협 하나로마트 용산점",
+      //하나로클럽 용산점
+      "PLACE_ID": "ChIJzZh6NQWifDUR4D9NEXbfKUM"
+    },
+    {
+      "SIJANG_NAME": "수유재래시장",
+      "PLACE_ID": "ChIJLVgMDWu8fDURS7ADeyQDCnU"
+    },
+    {
+      "SIJANG_NAME": "롯데백화점 미아점",
+      "PLACE_ID": "ChIJwcN5IH28fDURBSFmN_mE8l4"
+    },
+    {
+      "SIJANG_NAME": "금남시장",
+      "PLACE_ID": "ChIJ2XM5SHKjfDURtZaJrSiqQmM"
+    },
+    {
+      "SIJANG_NAME": "뚝도시장",
+      "PLACE_ID": "ChIJEeeaL46kfDURYnqe5002U6g"
+    },
+    {
+      "SIJANG_NAME": "이마트 왕십리점",
+      "PLACE_ID": "ChIJf3wYQ1ijfDURLBZFVWuJZ-k"
+    },
+    {
+      "SIJANG_NAME": "이마트 성수점",
+      "PLACE_ID": "ChIJa1Msy5GkfDURyIN-t8BfKfs"
+    },
+    {
+      "SIJANG_NAME": "자양골목시장",//자양시장
+      "PLACE_ID": "ChIJXbZXaeGkfDURSFpIzUy1lCk"
+    },
+    {
+      "SIJANG_NAME": "롯데마트 서울역점",
+      "PLACE_ID": "ChIJ624QV2GifDURQ02O7lEcqys"
+    },
+    {
+      "SIJANG_NAME": "이마트 자양점",
+      "PLACE_ID": "ChIJYZdsMuakfDUR4lmnSMUqXeA"
+    },
+    {
+      "SIJANG_NAME": "롯데마트 강변점",
+      "PLACE_ID": "ChIJd6jTAj2lfDURpiRrfymfcMA"
+    },
+    {
+      "SIJANG_NAME": "청량리종합시장",//청량리시장
+      "PLACE_ID": "ChIJx5LGnVm7fDURxZ1MoK52IWs"
+    },
+    {
+      "SIJANG_NAME": "경동시장",
+      "PLACE_ID": "ChIJY4jzR6i8fDURqaqQtmvbV1E"
+    },
+    {
+      "SIJANG_NAME": "홈플러스 동대문점",
+      "PLACE_ID": "ChIJWRu-YKq8fDURjVMv30ESLLo"
+    },
+    {
+      "SIJANG_NAME": "롯데백화점 청량리점",
+      "PLACE_ID": "ChIJc47RPFq7fDUR7qDEhZuNk1w"
+    },
+    {
+      "SIJANG_NAME": "우림시장",
+      "PLACE_ID": "ChIJC97Ss0S6fDURuzFDi68mLXQ"
+    },
+    {
+      "SIJANG_NAME": "동원시장",
+      "PLACE_ID": "ChIJufQPmfi6fDURuUBZZP3ffqk"
+    },
+    {
+      "SIJANG_NAME": "이마트 상봉점",
+      "PLACE_ID": "ChIJJxo8elC6fDURX9bOGBYDS4s"
+    },
+    {
+      "SIJANG_NAME": "홈플러스 면목점",
+      "PLACE_ID": "ChIJzUlgkx27fDURwjWsx6FwKEg"
+    },
+    {
+      "SIJANG_NAME": "공릉동 도깨비시장",
+      "PLACE_ID": "ChIJfduPI867fDURDEMKOgZXAJU"
+    },
+    {
+      "SIJANG_NAME": "롯데백화점 노원점",
+      "PLACE_ID": "ChIJZaEGGUC5fDURE3Vsefje3qQ"
+    },
+    {
+      "SIJANG_NAME": "암사종합시장",
+      "PLACE_ID": "ChIJuz62DwmwfDURKehgYyvZuXE"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e8d5c3</color>
+    <!--<color name="colorPrimaryDark">#7e5f64</color>-->
+    <color name="colorWhite">#fff</color>
+    <color name="colorBackground">#e0e0e0</color>
+    <color name="productGridBackgroundColor">#FFFFFF</color>
+    <color name="colorText">#4e342e</color>
+    <color name="colorText500">#94724F</color>
+    <color name="colorFocused">#6202EE</color>
+    <color name="colorText300">#BA9E84</color>
+</resources>

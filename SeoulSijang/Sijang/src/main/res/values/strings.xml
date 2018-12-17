@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">시장서울</string>
+    <string name="place">위치</string>
+    <string name="search_fragment_search">구 이름</string>
+    <string name="myPlace">내 위치로 검색</string>
+    <string name="menu_search_title">검색</string>
+    <string name="search_error">결과 없음</string>
+
+</resources>

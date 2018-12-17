@@ -1,0 +1,4 @@
+#Sun Sep 30 19:36:14 KST 2018
+base.0=/Users/mac/Desktop/Android Studio/서울 공모전/SeoulSijang/Sijang/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,124 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Theme.Shrine" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
+    <style name="Widget.SeoulSijang.FirstFragment.Button" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:text">@string/myPlace</item>
+        <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Headline6
+        </item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:colorPrimary">@color/colorText</item>
+        <item name="android:colorAccent">@color/colorText</item>
+        <item name="android:color">@color/colorText</item>
+        <item name="android:width">30dp</item>
+    </style>
+
+    <style name="TextAppearance.SeoulSijang.Backdrop.Button" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Headline5
+        </item>
+    </style>
+
+    <style name="Widget.SeoulSijang.EditText" parent="Widget.AppCompat.EditText">
+        <item name="android:colorPrimary">@color/colorText</item>
+        <item name="android:colorAccent">@color/colorText</item>
+        <item name="android:colorControlActivated">@color/colorText</item>
+        <item name="colorControlNormal">@color/colorText</item>
+    </style>
+
+    <style name="TextAppearance.SeoulSijang.Title5" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:textColor">#000</item>
+    </style>
+
+    <style name="TextAppearance.SeoulSijang.Title6" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textColor">#A1A1A1</item>
+    </style>
+
+    <style name="Widget.SeoulSiajng.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="hintTextAppearance">@style/TextAppearance.SeoulSijang.TextInputLayout.HintText
+        </item>
+        <item name="boxStrokeColor">@color/colorText</item>
+        <item name="colorControlNormal">@color/colorText</item>
+        <item name="colorControlHighlight">@color/colorText</item>
+        <item name="android:colorControlActivated">@color/colorText</item>
+    </style>
+
+    <style name="Widget.SeoulSiajng.TextInputEditText" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:colorControlActivated">@color/colorText</item>
+        <item name="android:textCursorDrawable">@color/colorText</item>
+        <item name="android:textColorHighlight">@color/colorText300</item>
+        <item name="android:colorControlNormal">@color/colorText</item>
+        <item name="android:textSize">15dp</item>
+    </style>
+
+    <style name="TextAppearance.SeoulSijang.TextInputLayout.HintText" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="android:textColor">@color/colorText</item>
+    </style>
+
+    <style name="Widget.SeoulSijang.ProductGridFragment.Toolbar" parent="Widget.AppCompat.Toolbar">
+
+    </style>
+
+    <style name="Widget.SeoulSijang.BackdropAFragment.Filter" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:colorButtonNormal">@color/colorPrimary</item>
+        <item name="android:colorAccent">@color/colorFocused</item>
+
+    </style>
+
+    <style name="Widget.SeoulSijang.ProductGridView.title" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:fontFamily">@font/name_font</item>
+        <item name="android:textSize">0sp</item>
+    </style>
+
+    <style name="Widget.SeoulSijang.DetailFragment.title" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:fontFamily">@font/name_font</item>
+    </style>
+
+    <style name="Widget.SeoulSiajng.TabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">@color/colorText</item>
+        <item name="tabIndicatorHeight">4dp</item>
+        <item name="tabPaddingStart">6dp</item>
+        <item name="tabPaddingEnd">6dp</item>
+        <item name="tabBackground">?attr/selectableItemBackground</item>
+        <item name="tabSelectedTextColor">@color/colorText</item>
+    </style>
+
+    <style name="AppTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">12sp</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <style name="CollapsedAppBar" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:textSize">35sp</item>
+        <item name="android:fontFamily">@font/name_font</item>
+    </style>
+
+    <style name="ExpandedAppBar" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textSize">50sp</item>
+        <item name="android:fontFamily">@font/name_font</item>
+    </style>
+
+    <style name="myRecyclerViewStyle">
+        <!-- NOTE: clipChildren should be false on API level 11 or later -->
+        <item name="android:clipChildren">false</item>
+        <item name="android:clipToPadding">false</item>
+        <item name="android:paddingBottom">@dimen/activity_vertical_margin</item>
+        <item name="android:paddingLeft">@dimen/activity_horizontal_margin</item>
+        <item name="android:paddingRight">@dimen/activity_horizontal_margin</item>
+        <item name="android:paddingTop">@dimen/activity_vertical_margin</item>
+        <item name="android:scrollbarStyle">outsideOverlay</item>
+        <item name="android:scrollbars">vertical</item>
+    </style>
+</resources>
+
